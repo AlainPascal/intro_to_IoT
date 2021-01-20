@@ -13,3 +13,9 @@ Digital technology has enabled business to innovate their approach to interactin
 Many companies now provide some or all of their services on-line.
 Sensors are everywhere generating massive amounts of data; all these sensors and measuring devices collect and transmit their data which can be stored and analyzed at a later date or it can be analyzed immediately to be used to modify computers, mobile devices, or processes of any sort.
 THe stored and analyzed data is used in businesses to determine buying patterns, forecast new trends, and streamline production; in governments to monitor the environment, forecast population trends, predict crime rates, and plan for social services; in cities to control traffic, monitor parking, provide police or fire support quicker, and control waste management.
+
+Networks form the foundation of the digitized world, they come in all sizes, they can range from simple networks consisting of two computers to networks connecting millions of devices.
+Simple networks in homes enable connectivity to the Internet; they also enable sharing of resources, such as printer, documents, pictures, and music, between a few local computers.
+In businesses and large organizations, networks can provide products and services to customers through their connection to the Internet.
+Networks can also be used on an even broader scale to provide consolidation, storage, and access to information on network servers.
+The Internet (the network of networks) is the largest network in existence and effectively provides the 'electronic skin' that surrounds the planet. Internet is a collection of interconnected private and public networks. Businesses, small office networks, and home networks connect to the Internet.
