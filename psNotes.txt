@@ -58,3 +58,7 @@ There are two common types of computer software:
 Both system software and application software are created using a computer programming language which is a formal language designed to create programs that communicate instructions to computer hardware.
 A compiled programming language turns the computer program into machine language before execution. An interpreted programming language interprets instructions directly without first compiling them into machine language.
 C++ is an example of a compiled programming language while Python is an example of an interpreted programming language.
+
+Programming variables can be classified into two categories:
+	- Local Variables: these are variables that are within the scope of a program / function / procedure.
+	- Global Variables: these are variables that are in the scope for the time the program's execution. They can be retrieved by any part of the program.
