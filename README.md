@@ -19,7 +19,7 @@ Contributions to the intro_to_IoT discussion are encouraged.
 
 ## Reference
 
-Cisco Networking Academy
+[Cisco Networking Academy](https://www.netacad.com/)
 
 ## License
 
