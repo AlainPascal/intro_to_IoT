@@ -51,3 +51,10 @@ The future of networking will revolve around artificial intelligence (AI) and in
 
 
 FLOWCHARTS: are diagrams that are used to represent processes or workflows. They illustrate how a process should work. They should show input states, any decisions made, and the results of those decisions. A flowchart should be easy to understand without having to be an expert in the chosen field. A flowchart is a common way to represent an algorithm (a set of self-contained step-by-step instructions).
+
+There are two common types of computer software:
+	- Application software programs are created to accomplish a certain task or collection of tasks.
+	- System software works between the computer hardware and the application program. It controls the computer hardware and allows the application programs to function.
+Both system software and application software are created using a computer programming language which is a formal language designed to create programs that communicate instructions to computer hardware.
+A compiled programming language turns the computer program into machine language before execution. An interpreted programming language interprets instructions directly without first compiling them into machine language.
+C++ is an example of a compiled programming language while Python is an example of an interpreted programming language.
