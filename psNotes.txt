@@ -30,3 +30,5 @@ NETWORK TYPES:
 	- The Cloud: a collection of data centers or groups of connected servers that are used to store and analyze data, provide access to on-line applications and corporate use.
 	- The Edge: the physical edge of a corporate network.
 	- Fog Computing: with the rising of sensors used by the IoT, there is often a need to store the sensor data securely and closer to where the data can be analyzed, then the analyzed data can be used quickly and effectively to update or modify processes within the organization. This allows local data to be preprocessed at the edge of the network.
+
+The Internet of Things (IoT) is the connection of millions of smart devices and sensors connected to the Internet. These connected devices and sensors collect and share data for use and evaluation by many organizations.
