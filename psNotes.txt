@@ -32,3 +32,11 @@ NETWORK TYPES:
 	- Fog Computing: with the rising of sensors used by the IoT, there is often a need to store the sensor data securely and closer to where the data can be analyzed, then the analyzed data can be used quickly and effectively to update or modify processes within the organization. This allows local data to be preprocessed at the edge of the network.
 
 The Internet of Things (IoT) is the connection of millions of smart devices and sensors connected to the Internet. These connected devices and sensors collect and share data for use and evaluation by many organizations.
+
+Many organizations are benefiting from the data collected, saved and analyzed from sensors:
+	- Businesses have more information about products that they sell and who is purchasing them.
+	- Retailers are able to do more marketing, reduce losses based on unsold products, and can provide loyalty bonuses for preferred or frequent customers, as well as manage types of in-store products.
+	- Manufacturers reduce downtime by predicting maintenance requirements and improving scheduling of field service employees.
+	- Governments monitor environment issues, target funding for social issues, and have informed control of power output.
+	- Cities have the ability to control traffic patterns based on time of day or major events, monitor and control garbage and recycling, monitor health and housing needs, and evaluate future transportation requirements.
+	- Individuals can reap improved fitness and health benefits, better home and family security, and reduce costs for energy and heating systems.
