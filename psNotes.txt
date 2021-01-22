@@ -48,3 +48,6 @@ HOW IoT DEVICES ARE CONNECTED TO THE NETWORK
 	Low-powered connection options must be used to optimize and extend the availability of the sensor.
 
 The future of networking will revolve around artificial intelligence (AI) and intent-based networking (IBN). If programmed appropriately, smart devices are able to evaluate data that is provided to them and modify processes or settings. If they are provided with sufficient data, they can 'learn' and modify their own code based on the new parameters.
+
+
+FLOWCHARTS: are diagrams that are used to represent processes or workflows. They illustrate how a process should work. They should show input states, any decisions made, and the results of those decisions. A flowchart should be easy to understand without having to be an expert in the chosen field. A flowchart is a common way to represent an algorithm (a set of self-contained step-by-step instructions).
