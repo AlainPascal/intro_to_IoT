@@ -46,3 +46,5 @@ HOW IoT DEVICES ARE CONNECTED TO THE NETWORK
 	Connected to a controller that is responsible for collecting data from sensors and providing network or Internet connectivity, as well as make immediate decisions, send data to a more powerful computer in the same LANs or through Internet connection for analysis.
 	Sensors often work together with actuators that take electrical input and transform the input into physical action.
 	Low-powered connection options must be used to optimize and extend the availability of the sensor.
+
+The future of networking will revolve around artificial intelligence (AI) and intent-based networking (IBN). If programmed appropriately, smart devices are able to evaluate data that is provided to them and modify processes or settings. If they are provided with sufficient data, they can 'learn' and modify their own code based on the new parameters.
