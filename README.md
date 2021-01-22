@@ -11,7 +11,7 @@ intro_to_IoT is a brief discussion on the Introduction to the Internet of Things
   $ git clone https://github.com/AlainPascal/intro_to_IoT.git
   $ cd intro_to_IoT
 ```
-* Open intro_to_IoT/psNotes.txt with a text editor like Sublime Text or Atom for easy reading
+* Open intro_to_IoT/psNotes.txt with a text editor like [Sublime Text](https://www.sublimetext.com/) or Atom for easy reading
 
 ## Contributing
 
