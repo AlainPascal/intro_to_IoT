@@ -40,3 +40,9 @@ Many organizations are benefiting from the data collected, saved and analyzed fr
 	- Governments monitor environment issues, target funding for social issues, and have informed control of power output.
 	- Cities have the ability to control traffic patterns based on time of day or major events, monitor and control garbage and recycling, monitor health and housing needs, and evaluate future transportation requirements.
 	- Individuals can reap improved fitness and health benefits, better home and family security, and reduce costs for energy and heating systems.
+
+HOW IoT DEVICES ARE CONNECTED TO THE NETWORK
+	A sensor needs to be connected to a network (either wireless or wired Ethernet connection) so that the gathered data can be stored and shared.
+	Connected to a controller that is responsible for collecting data from sensors and providing network or Internet connectivity, as well as make immediate decisions, send data to a more powerful computer in the same LANs or through Internet connection for analysis.
+	Sensors often work together with actuators that take electrical input and transform the input into physical action.
+	Low-powered connection options must be used to optimize and extend the availability of the sensor.
