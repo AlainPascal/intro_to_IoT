@@ -19,3 +19,14 @@ Simple networks in homes enable connectivity to the Internet; they also enable s
 In businesses and large organizations, networks can provide products and services to customers through their connection to the Internet.
 Networks can also be used on an even broader scale to provide consolidation, storage, and access to information on network servers.
 The Internet (the network of networks) is the largest network in existence and effectively provides the 'electronic skin' that surrounds the planet. Internet is a collection of interconnected private and public networks. Businesses, small office networks, and home networks connect to the Internet.
+
+NETWORK TYPES:
+	- Personal Area Network (PAN): small networks where connected wireless devices are within personal reach. Connecting your smartphone to your car using Bluetooth is an example of PAN
+	- Local Area Network (LAN): typically a network in a small or local geographic area, such as a home, small business or department within a large corporation. LAN can connect two or more devices including computers, printers, and wireless devices. It provides access to larger wide area networks (WAN) and the Internet.
+	- Metropolitan Area Network (MAN)
+	- Wide Area Networks (WAN): a collection of LANs that provides inter-LAN and Internet connectivity for businesses and governments.
+	- Internet: a multi-layer global network system that connects hundreds of millions of computers. This large system is comprised of multiple local and global networks serving private, public, business, academic, and government purposes.
+	- Wireless Networks: computer networks that use electromagnetic waves instead of wires in order to carry signals over the various parts of the network. They can be described as PANs, LANs or WANs, depending on their scope.
+	- The Cloud: a collection of data centers or groups of connected servers that are used to store and analyze data, provide access to on-line applications and corporate use.
+	- The Edge: the physical edge of a corporate network.
+	- Fog Computing: with the rising of sensors used by the IoT, there is often a need to store the sensor data securely and closer to where the data can be analyzed, then the analyzed data can be used quickly and effectively to update or modify processes within the organization. This allows local data to be preprocessed at the edge of the network.
