@@ -83,3 +83,8 @@ PROTOTYPING
 		- Arduino (an open-source physical computing platform based on a simple microcontroller board, and a development environment for writing software for the board) https://www.arduino.cc
 		- Raspberry Pi (a low cost, credit-card-sized computer that plugs into a computer monitor or TV, capable of doing everything a computer can do, from browsing the Internet and playing high definition video, to making spreadsheets, word processing, and playing games) https://www.raspberrypi.org
 		- Beaglebone (very similar to Raspberry Pi in size, power requirements, and application, with more processing power, making it a better choice for application with higher processing requirements) https://www.beaglebone.org
+
+	Prototyping Programming Resources:
+		- MIT OpenCourceWare, OCW (a web based publication of almost all MIT course content, OCW is a great place to get familiar with computer programming for free) https://www.ocw.mit.edu/courses/intro-programming
+		- Khan Academy (non-profit educational website to provide a free world class education for anyone, anywhere) https://www.khanacademy.org/computing/cs
+		- Code Academy (relies on interactivity to help people learn how to write computer programs) https://www.codeacademy.com
