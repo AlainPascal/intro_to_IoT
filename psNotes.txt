@@ -78,3 +78,8 @@ PROTOTYPING
 		- LEGO Mindstorms (has large community of contributors, you can create LEGO robots and control them using an application) https://www.mindstorms.lego.com
 		- Meccano, or Erector Set (a model contribution system that consists of reusable metal strips, plates, angle girders, wheels, axles, and gears, with nuts and bolts to connect pieces. helps build working prototypes and mechanical devices) https://www.erector.us
 		- 3D Printing (process of making a solid object based on 3D model computer file) https://www.makerbot.com
+
+	Prototyping Electronic Toolkits:
+		- Arduino (an open-source physical computing platform based on a simple microcontroller board, and a development environment for writing software for the board) https://www.arduino.cc
+		- Raspberry Pi (a low cost, credit-card-sized computer that plugs into a computer monitor or TV, capable of doing everything a computer can do, from browsing the Internet and playing high definition video, to making spreadsheets, word processing, and playing games) https://www.raspberrypi.org
+		- Beaglebone (very similar to Raspberry Pi in size, power requirements, and application, with more processing power, making it a better choice for application with higher processing requirements) https://www.beaglebone.org
