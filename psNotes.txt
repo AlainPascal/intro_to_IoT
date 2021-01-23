@@ -67,3 +67,7 @@ Basic program structures are:
 	- IF..THEN : allows the computer to make a decision based on the result of an expression. When an IF..THEN structure is encountered, it evaluates the provided expression. If the expression is false, the computer moves on to the next structure, ignoring the contents of the IF..THEN block. If the expression is true, the computer executes the associated action before moving on to the next instruction in the program.
 	- FOR Loops : used to execute a specific set of instructions a specific number of times, based on an expression. A variable acts as a counter inside a range of values identified by a minimum and a maximum. Every time the loop is executed, the counter variable is incremented. When the counter is equal to the defined maximum value, the loop is abandoned and the execution moves on to the next instruction.
 	- WHILE Loops : used to execute a specific set of instruction while an expression is true. Often the instructions inside the loop will eventually make the expression evaluate as false.
+
+PROTOTYPING
+	is the process of creating a rudimentary working model of a product or system. Used for performance evaluation and further improvement of product. May be relatively expensive to produce. It is an actual, working version of the product.
+	In the IoT, it is often used as a technology demonstrator.
