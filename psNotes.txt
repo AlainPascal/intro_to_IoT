@@ -21,7 +21,7 @@ Networks can also be used on an even broader scale to provide consolidation, sto
 The Internet (the network of networks) is the largest network in existence and effectively provides the 'electronic skin' that surrounds the planet. Internet is a collection of interconnected private and public networks. Businesses, small office networks, and home networks connect to the Internet.
 
 NETWORK TYPES:
-	- Personal Area Network (PAN): small networks where connected wireless devices are within personal reach. Connecting your smartphone to your car using Bluetooth is an example of PAN
+	- Personal Area Network (PAN): small networks where connected wireless devices are within personal reach. Connecting your smartphone to your car using Bluetooth is an example of PAN.
 	- Local Area Network (LAN): typically a network in a small or local geographic area, such as a home, small business or department within a large corporation. LAN can connect two or more devices including computers, printers, and wireless devices. It provides access to larger wide area networks (WAN) and the Internet.
 	- Metropolitan Area Network (MAN)
 	- Wide Area Networks (WAN): a collection of LANs that provides inter-LAN and Internet connectivity for businesses and governments.
