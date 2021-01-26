@@ -23,7 +23,7 @@ The Internet (the network of networks) is the largest network in existence and e
 NETWORK TYPES:
 	- Personal Area Network (PAN): small networks where connected wireless devices are within personal reach. Connecting your smartphone to your car using Bluetooth is an example of PAN
 	- Local Area Network (LAN): typically a network in a small or local geographic area, such as a home, small business or department within a large corporation. LAN can connect two or more devices including computers, printers, and wireless devices. It provides access to larger wide area networks (WAN) and the Internet.
-	- Metropolitan Area Network (MAN)
+	- Metropolitan Area Network (MAN): a network that interconnects users with computer resources in a geographic region of the size of a metropolitan area. Applied to the interconnection of LANs in a city into a single larger network which may then also offer efficient connection to a WAN.
 	- Wide Area Networks (WAN): a collection of LANs that provides inter-LAN and Internet connectivity for businesses and governments.
 	- Internet: a multi-layer global network system that connects hundreds of millions of computers. This large system is comprised of multiple local and global networks serving private, public, business, academic, and government purposes.
 	- Wireless Networks: computer networks that use electromagnetic waves instead of wires in order to carry signals over the various parts of the network. They can be described as PANs, LANs or WANs, depending on their scope.
