@@ -12,7 +12,7 @@ The world is quickly being covered with networks that allow digital devices to i
 Digital technology has enabled businesses to innovate their approach to interacting with society.
 Many companies now provide some or all of their services on-line.
 Sensors are everywhere generating massive amounts of data; all these sensors and measuring devices collect and transmit their data which can be stored and analyzed at a later date or it can be analyzed immediately to be used to modify computers, mobile devices, or processes of any sort.
-THe stored and analyzed data is used in businesses to determine buying patterns, forecast new trends, and streamline production; in governments to monitor the environment, forecast population trends, predict crime rates, and plan for social services; in cities to control traffic, monitor parking, provide police or fire support quicker, and control waste management.
+The stored and analyzed data is used in businesses to determine buying patterns, forecast new trends, and streamline production; in governments to monitor the environment, forecast population trends, predict crime rates, and plan for social services; in cities to control traffic, monitor parking, provide police or fire support quicker, and control waste management.
 
 Networks form the foundation of the digitized world, they come in all sizes, they can range from simple networks consisting of two computers to networks connecting millions of devices.
 Simple networks in homes enable connectivity to the Internet; they also enable sharing of resources, such as printer, documents, pictures, and music, between a few local computers.
