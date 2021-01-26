@@ -9,19 +9,19 @@ Objectives:
 In our world today, there are more smart devices than there are people. A growing number of people are connected to the Internet, in one way or another, 24 hours a day.
 The world is quickly being covered with networks that allow digital devices to interconnect and transmit. As society embraces these digital devices, as digital networks continue to grow around the world, and as the economic benefits of digitization continue to grow, we are seeing a digital transformation (which is the application of digital technology to provide the stage for business and industry to innovate).
 
-Digital technology has enabled business to innovate their approach to interacting with society.
+Digital technology has enabled businesses to innovate their approach to interacting with society.
 Many companies now provide some or all of their services on-line.
 Sensors are everywhere generating massive amounts of data; all these sensors and measuring devices collect and transmit their data which can be stored and analyzed at a later date or it can be analyzed immediately to be used to modify computers, mobile devices, or processes of any sort.
-THe stored and analyzed data is used in businesses to determine buying patterns, forecast new trends, and streamline production; in governments to monitor the environment, forecast population trends, predict crime rates, and plan for social services; in cities to control traffic, monitor parking, provide police or fire support quicker, and control waste management.
+The stored and analyzed data is used in businesses to determine buying patterns, forecast new trends, and streamline production; in governments to monitor the environment, forecast population trends, predict crime rates, and plan for social services; in cities to control traffic, monitor parking, provide police or fire support quicker, and control waste management.
 
 Networks form the foundation of the digitized world, they come in all sizes, they can range from simple networks consisting of two computers to networks connecting millions of devices.
-Simple networks in homes enable connectivity to the Internet; they also enable sharing of resources, such as printer, documents, pictures, and music, between a few local computers.
+Simple networks in homes enable connectivity to the Internet; they also enable sharing of resources, such as printers, documents, pictures, and music, between a few local computers.
 In businesses and large organizations, networks can provide products and services to customers through their connection to the Internet.
 Networks can also be used on an even broader scale to provide consolidation, storage, and access to information on network servers.
 The Internet (the network of networks) is the largest network in existence and effectively provides the 'electronic skin' that surrounds the planet. Internet is a collection of interconnected private and public networks. Businesses, small office networks, and home networks connect to the Internet.
 
 NETWORK TYPES:
-	- Personal Area Network (PAN): small networks where connected wireless devices are within personal reach. Connecting your smartphone to your car using Bluetooth is an example of PAN
+	- Personal Area Network (PAN): small networks where connected wireless devices are within personal reach. Connecting your smartphone to your car using Bluetooth is an example of PAN.
 	- Local Area Network (LAN): typically a network in a small or local geographic area, such as a home, small business or department within a large corporation. LAN can connect two or more devices including computers, printers, and wireless devices. It provides access to larger wide area networks (WAN) and the Internet.
 	- Metropolitan Area Network (MAN): a network that interconnects users with computer resources in a geographic region of the size of a metropolitan area. Applied to the interconnection of LANs in a city into a single larger network which may then also offer efficient connection to a WAN.
 	- Wide Area Networks (WAN): a collection of LANs that provides inter-LAN and Internet connectivity for businesses and governments.
