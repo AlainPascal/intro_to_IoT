@@ -9,7 +9,7 @@ Objectives:
 In our world today, there are more smart devices than there are people. A growing number of people are connected to the Internet, in one way or another, 24 hours a day.
 The world is quickly being covered with networks that allow digital devices to interconnect and transmit. As society embraces these digital devices, as digital networks continue to grow around the world, and as the economic benefits of digitization continue to grow, we are seeing a digital transformation (which is the application of digital technology to provide the stage for business and industry to innovate).
 
-Digital technology has enabled business to innovate their approach to interacting with society.
+Digital technology has enabled businesses to innovate their approach to interacting with society.
 Many companies now provide some or all of their services on-line.
 Sensors are everywhere generating massive amounts of data; all these sensors and measuring devices collect and transmit their data which can be stored and analyzed at a later date or it can be analyzed immediately to be used to modify computers, mobile devices, or processes of any sort.
 THe stored and analyzed data is used in businesses to determine buying patterns, forecast new trends, and streamline production; in governments to monitor the environment, forecast population trends, predict crime rates, and plan for social services; in cities to control traffic, monitor parking, provide police or fire support quicker, and control waste management.
