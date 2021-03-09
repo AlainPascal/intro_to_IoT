@@ -93,3 +93,10 @@ Characteristics that indicate an organization may be dealing with Big Data:
 	- They have a large number of data that increasingly requires more storage space (volume).
 	- They have an amount of data that is growing exponentially fast (velocity).
 	- They have data that is generated in different formats (variety).
+
+Major data storage problems:
+	- Management (data can be generated and collected from multiple different sources so a management system must be used to organize and collate all the sources. there are few data sharing standards and thousands of data management tools available)
+	- Security (data must be kept secure and only accessible by authorized users)
+	- Redundancy (safeguards should be in place to maintain the integrity of the stored data; processes for backups, redundancy, and disaster recovery are required)
+	- Analytics (big data contains both structured and unstructured data; unstructured data such as emails or photos are difficult to analyze and consume a lot of storage space; structured data such as a spreadsheet is easier to analyze and store; data storage systems must be able to manage both types)
+	- Access (big data must be accessible from anywhere at anytime)
