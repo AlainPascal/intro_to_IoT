@@ -105,3 +105,6 @@ Fog Computing
 	is an architecture that utilizes end-user clients or 'edge' devices to do a substantial amount of the preprocessing and storage required by an organization.
 	was designed to keep the data closer to the source for preprocessing.
 	After the data has been preprocessed, it is often shipped off for longer term storage, backup, or deeper analysis within the cloud.
+
+The Cloud and Cloud Computing
+	The cloud is a collection of data centers or groups of connected servers. Access to software, storage, and services available on the servers is obtained through the Internet via a browser interface.
