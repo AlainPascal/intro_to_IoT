@@ -136,3 +136,11 @@ Data analytics allows business to better understand the impact of their products
 Value comes from two primary types of process data: transactional and analytical.
 Transactional information is captured and processed as events happen. It is used to analyze daily sales reports and production schedules to determine how much inventory to carry.
 Analytical information supports managerial analysis tasks like determining whether the organization should build a new manufacturing plant or hire additional sales personnel.
+
+The source of data in the large datasets is varied. Apart from sensor data, other data originates from anything that has been scanned, entered, and released to the Internet from sources such as:
+	- Social media sites
+	- HTTP, Web pages, and search engines on the Internet
+	- Historical data from public and private archives
+	- Metadata that is attached to emails, transmitted documents, and pictures
+	- Medical forms, insurance forms, and tax forms
+	- Genomics research using DNA
