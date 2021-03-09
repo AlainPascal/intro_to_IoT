@@ -76,7 +76,7 @@ PROTOTYPING
 		- Maker Media (global platform for connecting makers with each other to exchange projects and ideas, also to find and buy products for their projects) https://www.makezine.com
 		- Wood and Metal (common prototyping materials, but may be too difficult for beginners to user), Plastic, Clay, Paper and Wires.
 		- LEGO Mindstorms (has large community of contributors, you can create LEGO robots and control them using an application) https://www.mindstorms.lego.com
-		- Meccano, or Erector Set (a model contribution system that consists of reusable metal strips, plates, angle girders, wheels, axles, and gears, with nuts and bolts to connect pieces. helps build working prototypes and mechanical devices) https://www.erector.us
+		- Meccano, or Erector Set (a model contribution system that consists of reusable metal strips, plates, angle girders, wheels, axles, and gears, with nuts and bolts to connect pieces. Helps build working prototypes and mechanical devices) https://www.erector.us
 		- 3D Printing (process of making a solid object based on 3D model computer file) https://www.makerbot.com
 
 	Prototyping Electronic Toolkits:
@@ -88,3 +88,4 @@ PROTOTYPING
 		- MIT OpenCourceWare, OCW (a web based publication of almost all MIT course content, OCW is a great place to get familiar with computer programming for free) https://www.ocw.mit.edu/courses/intro-programming
 		- Khan Academy (non-profit educational website to provide a free world class education for anyone, anywhere) https://www.khanacademy.org/computing/cs
 		- Code Academy (relies on interactivity to help people learn how to write computer programs) https://www.codeacademy.com
+
