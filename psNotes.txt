@@ -128,4 +128,6 @@ Distributed Data Processing takes the large volume of data and breaks it into sm
 The Hadoop Distributed File System, HDFS, is a distributed, fault tolerant file system, and MapReduce, which is a distributed way to process data.
 	Hadoop is open-source software enabling the distributed processing  of large data sets that can be terabytes in size and that are stored in clusters of computers.
 
-	
+	Hadoop has two main features that have made it the industry standard for handling Big Data:
+		- Scalability (larger cluster size improve performance and provide higher data processing capabilities; with Hadoop, cluster size can easily scale from a five node cluster to a one thousand node cluster without excessively increasing the administrative burden)
+		- Fault Tolerance (Hadoop automatically replicates data across clusters to ensure data will not be lost; if a disk, node, or a whole rack fails, the data is safe)
