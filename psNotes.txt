@@ -100,3 +100,8 @@ Major data storage problems:
 	- Redundancy (safeguards should be in place to maintain the integrity of the stored data; processes for backups, redundancy, and disaster recovery are required)
 	- Analytics (big data contains both structured and unstructured data; unstructured data such as emails or photos are difficult to analyze and consume a lot of storage space; structured data such as a spreadsheet is easier to analyze and store; data storage systems must be able to manage both types)
 	- Access (big data must be accessible from anywhere at anytime)
+
+Fog Computing
+	is an architecture that utilizes end-user clients or 'edge' devices to do a substantial amount of the preprocessing and storage required by an organization.
+	was designed to keep the data closer to the source for preprocessing.
+	After the data has been preprocessed, it is often shipped off for longer term storage, backup, or deeper analysis within the cloud.
