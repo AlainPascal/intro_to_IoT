@@ -144,3 +144,5 @@ The source of data in the large datasets is varied. Apart from sensor data, othe
 	- Metadata that is attached to emails, transmitted documents, and pictures
 	- Medical forms, insurance forms, and tax forms
 	- Genomics research using DNA
+
+Data mining is the process of turning raw data into meaningful information by discovering patterns and relationships in large data sets.
