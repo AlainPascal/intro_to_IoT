@@ -162,3 +162,7 @@ Chart Types
 	- Pie charts are used to show the comparison of a static number; segments represent a percentage of that number; the number of categories should be kept to a minimum (not more than ten, else the slices lose meaning and impact); the total number of segments must equal 100%.
 	- Scanner plots are very popular for correlation visualizations, or to show the distribution of a large number of data points.
 	- Bar charts are similar to column charts except they are positioned horizontally or vertically; longer bars indicate larger numbers; they are best used when the names for each data point is long.
+
+Analyzing Big Data for Effective Use in Business
+	Data analysis is the process of inspecting, cleaning, transforming, and modeling data to uncover useful information. Before beginning any analysis, it is critical to know what problem the business is trying to solve or what information the business is looking for. Having a strategy helps a business determine the type of analysis required and the best tool to do the analysis; also helps to determine the most effective way to present the results for management.
+	There are many Big Data Analytics tools such as Knime, OpenRefine, Orange, and RapidMiner.
