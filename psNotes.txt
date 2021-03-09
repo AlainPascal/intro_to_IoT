@@ -116,4 +116,9 @@ The Cloud and Cloud Computing
 
 	One of the disadvantages of using the cloud is that data could fall into the wrong hands. The data is at the mercy of the security robustness of the chosen cloud provider.
 
-	
+	From the perspective of an enterprise, cloud services and computing support a variety of data management issues:
+		- it enables access to organizational data anywhere and at any time.
+		- it streamlines the IT operations of an organization by subscribing only the needed services.
+		- it eliminates or reduces the need for onsite IT equipment, maintenance, and management.
+		- it reduces the cost of equipment, energy, physical plant requirements, and personnel training needs.
+		- it enables rapid responses to increasing data volume requirements.
