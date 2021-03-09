@@ -146,3 +146,12 @@ The source of data in the large datasets is varied. Apart from sensor data, othe
 	- Genomics research using DNA
 
 Data mining is the process of turning raw data into meaningful information by discovering patterns and relationships in large data sets.
+
+Data Visualization
+	To be of value, the mined data must be analyzed and presented to managers and decision makers. There are many different visualizations that can be used to present the value in the data.
+	Determining the best chart to use will vary based on:
+		- the number of variables to show
+		- the number of data points in each variable
+		- whether the data is representing a timeline
+		- items that require comparisons
+	Some of the most popular chart types are line, column, bar, pie, and scatter.
