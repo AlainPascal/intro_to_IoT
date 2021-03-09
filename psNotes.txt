@@ -88,3 +88,8 @@ PROTOTYPING
 		- MIT OpenCourceWare, OCW (a web based publication of almost all MIT course content, OCW is a great place to get familiar with computer programming for free) https://www.ocw.mit.edu/courses/intro-programming
 		- Khan Academy (non-profit educational website to provide a free world class education for anyone, anywhere) https://www.khanacademy.org/computing/cs
 		- Code Academy (relies on interactivity to help people learn how to write computer programs) https://www.codeacademy.com
+
+Characteristics that indicate an organization may be dealing with Big Data:
+	- They have a large number of data that increasingly requires more storage space (volume).
+	- They have an amount of data that is growing exponentially fast (velocity).
+	- They have data that is generated in different formats (variety).
