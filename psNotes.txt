@@ -113,3 +113,7 @@ The Cloud and Cloud Computing
 		- to store all of data, such as pictures, music, movies, and emails, freeing up local hard drive space.
 		- to access many applications instead of downloading them onto local device.
 		- to access data and applications anywhere, anytime, and on any device.
+
+	One of the disadvantages of using the cloud is that data could fall into the wrong hands. The data is at the mercy of the security robustness of the chosen cloud provider.
+
+	
