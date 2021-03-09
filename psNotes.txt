@@ -155,3 +155,10 @@ Data Visualization
 		- whether the data is representing a timeline
 		- items that require comparisons
 	Some of the most popular chart types are line, column, bar, pie, and scatter.
+
+Chart Types
+	- Line charts are most commonly used as comparison chats. They are used when there is a continuous set of data, when the number of data points is high, and to show a trend in the data over time.
+	- Column charts are positioned vertically, probably the most common chart type used to display the value of a specific data point and compare that value across similar categories.
+	- Pie charts are used to show the comparison of a static number; segments represent a percentage of that number; the number of categories should be kept to a minimum (not more than ten, else the slices lose meaning and impact); the total number of segments must equal 100%.
+	- Scanner plots are very popular for correlation visualizations, or to show the distribution of a large number of data points.
+	- Bar charts are similar to column charts except they are positioned horizontally or vertically; longer bars indicate larger numbers; they are best used when the names for each data point is long.
