@@ -126,4 +126,6 @@ The Cloud and Cloud Computing
 Distributed Data Processing takes the large volume of data and breaks it into smaller pieces. These smaller data volumes are distributed in many locations to be processed by many computers with smaller processors.
 
 The Hadoop Distributed File System, HDFS, is a distributed, fault tolerant file system, and MapReduce, which is a distributed way to process data.
+	Hadoop is open-source software enabling the distributed processing  of large data sets that can be terabytes in size and that are stored in clusters of computers.
+
 	
