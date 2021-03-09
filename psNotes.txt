@@ -108,3 +108,8 @@ Fog Computing
 
 The Cloud and Cloud Computing
 	The cloud is a collection of data centers or groups of connected servers. Access to software, storage, and services available on the servers is obtained through the Internet via a browser interface.
+
+	From an individual's perspective, using cloud services allows:
+		- to store all of data, such as pictures, music, movies, and emails, freeing up local hard drive space.
+		- to access many applications instead of downloading them onto local device.
+		- to access data and applications anywhere, anytime, and on any device.
