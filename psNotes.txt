@@ -166,3 +166,6 @@ Chart Types
 Analyzing Big Data for Effective Use in Business
 	Data analysis is the process of inspecting, cleaning, transforming, and modeling data to uncover useful information. Before beginning any analysis, it is critical to know what problem the business is trying to solve or what information the business is looking for. Having a strategy helps a business determine the type of analysis required and the best tool to do the analysis; also helps to determine the most effective way to present the results for management.
 	There are many Big Data Analytics tools such as Knime, OpenRefine, Orange, and RapidMiner.
+
+AUTOMATION
+	is any process that is self-driven and reduces, then eventually  eliminates, the need for human intervention.
