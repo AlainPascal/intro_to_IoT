@@ -175,7 +175,7 @@ AUTOMATION
 		- Smart Buildings (deploy many of the same technologies as smart homes; can also connect to and communicate with the smart grid, enabling more efficient management of energy systems)
 		- Industrial IoT and Smart Factories (industrial IoT is a network of manufacturing devices and sensors connected by secure, high speed communications technologies; this results in systems that can monitor processes; collect, exchange, and analyze data; and use that information to continually adjust the manufacturing process)
 		- Smart Cities (some of these cities use technology to reduce carbon emissions or monitor CO2 levels; others use technology to provide free city wide wifi access, improve safety, or improve transportation options)
-		- Smart Grids (are developing networks of transmission lines, equipment, controls and new technologies working together to respond immediately to our demand for electricity)
+		- Smart Grids (are developing networks of transmission lines, equipment, controls and new technologies working together to respond immediately to the demand for electricity)
 		- Smart Car Technology (most today's new motor vehicles have integrated safety technologies that assist drivers to be safer on the road; these technologies use a combination of hardware and software to identify safety risks and to take action to avoid a crash; their continuing evolution has given rise to Automated Driving Systems)
 		- Stores and Services (tasks that were done by people are now increasingly being done by machines; systems have been designed to monitor inventory levels and automatically place orders to accurately match supply to demand and eliminate excess inventory)
 		- Medical Diagnosis and Surgery (systems are developed that use technology to accurately and automatically conduct medical tests; machines are being used to more precisely control the treatment which minimizes peripheral damage to the patient)
@@ -208,4 +208,3 @@ IBN is a systematic approach to tie infrastructure management to business intent
 
 	The Cisco Digital Network Architecture, Cisco DNA, is an example of an intent-based network. it is an open, extensible, software-driven architecture. it accelerates and simplifies enterprise network operations, while lowering costs and reducing risks.
 	Cisco DNA automation and assurance are built on a software-defined networking, SDN, controller, rich contextual analytics, network virtualization, and the limitless scalability of the cloud.
-	
