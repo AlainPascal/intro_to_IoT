@@ -169,3 +169,15 @@ Analyzing Big Data for Effective Use in Business
 
 AUTOMATION
 	is any process that is self-driven and reduces, then eventually  eliminates, the need for human intervention.
+
+	Applications of Automation:
+		- Smart Home Automation (devices are being used to control things such as lights, locks, doors, thermostats, plugs, switches, alarm systems, window coverings, sprinkler system sensors, and more; even kitchen appliances and pet care functions are being automated)
+		- Smart Buildings (deploy many of the same technologies as smart homes; can also connect to and communicate with the smart grid, enabling more efficient management of energy systems)
+		- Industrial IoT and Smart Factories (industrial IoT is a network of manufacturing devices and sensors connected by secure, high speed communications technologies; this results in systems that can monitor processes; collect, exchange, and analyze data; and use that information to continually adjust the manufacturing process)
+		- Smart Cities (some of these cities use technology to reduce carbon emissions or monitor CO2 levels; others use technology to provide free city wide wifi access, improve safety, or improve transportation options)
+		- Smart Grids (are developing networks of transmission lines, equipment, controls and new technologies working together to respond immediately to our demand for electricity)
+		- Smart Car Technology (most today's new motor vehicles have integrated safety technologies that assist drivers to be safer on the road; these technologies use a combination of hardware and software to identify safety risks and to take action to avoid a crash; their continuing evolution has given rise to Automated Driving Systems)
+		- Stores and Services (tasks that were done by people are now increasingly being done by machines; systems have been designed to monitor inventory levels and automatically place orders to accurately match supply to demand and eliminate excess inventory)
+		- Medical Diagnosis and Surgery (systems are developed that use technology to accurately and automatically conduct medical tests; machines are being used to more precisely control the treatment which minimizes peripheral damage to the patient)
+		- Aircraft Auto Pilot (complex collection of systems automates a plane's operations; it makes adjustments to keep the plane safely on the intended path; redundancy in system design ensures that a failure in any one system would not jeopardize passenger safety)
+		
