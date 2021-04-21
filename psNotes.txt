@@ -181,3 +181,5 @@ AUTOMATION
 		- Medical Diagnosis and Surgery (systems are developed that use technology to accurately and automatically conduct medical tests; machines are being used to more precisely control the treatment which minimizes peripheral damage to the patient)
 		- Aircraft Auto Pilot (complex collection of systems automates a plane's operations; it makes adjustments to keep the plane safely on the intended path; redundancy in system design ensures that a failure in any one system would not jeopardize passenger safety)
 		
+	Many devices now incorporate smart technology to alter their behavior under certain circumstances.
+	Whenever a decision or course of action is taken by a device on an outside piece of information, then that device is referred to as a smart device. many devices that we interact with now have the word smart in their names. this indicates that the device has the ability to alter its behavior depending on its environment.
