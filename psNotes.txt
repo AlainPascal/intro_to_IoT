@@ -200,4 +200,9 @@ IBN is a systematic approach to tie infrastructure management to business intent
 	
 	Intent-based networking harnesses the power of automation, AI, and ML to control the function of a network to accomplish a specific purpose, or intent.
 	The intent-based network uses AI and ML to ensure that any services that are deployed meet the required service level. if they do not meet the service level, the intent-based network can make alerts and provide suggestions for improvement.
+
+	The Intent-Based Networking model consists of three key elements:
+		- Assurance (end-to-end verification of network-wide behavior; it predicts results of any changes, tracks compliance with the original intent, and makes recommendations or adjustments when there is a misalignment between the intent and the outcome; this stage relies heavily on AI and ML)
+		- Translation (the ability to apply business intent to network configuration; the intent is specified in plain language and used by the system to create policies across the system)
+		- Activation (occurs after the intent has been specified and the policies created; this is when individual devices are provisioned to match the intent-based policies)
 	
