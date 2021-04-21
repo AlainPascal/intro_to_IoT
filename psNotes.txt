@@ -194,3 +194,6 @@ Some of the more common uses of ML in IoT include:
 	- Shape Recognition (programs exist that allow crude hand-drawn diagrams and notes to be converted to more formal diagrams and text; this allows shapes and lines of hand writing to be converted to more formal text which can then be searched and analyzed)
 	- Credit Card Fraud Detection (a profile is constructed about the purchasing patterns of a client; any deviation from these patterns triggers an alert and the system automatically takes action)
 	- Facial Recognition (security cameras are everywhere, from stores and streets to airports and transportation hubs; these cameras continually scan the crowds, normally watching for dangerous or illegal activities, but they can also be used to identify and track individuals; the system builds a pattern of specific facial features and then watches for a match to these facial patterns triggering some action)
+
+The Intent-Based Networking, IBN, transforms a hardware-centric, manual network into a controller-led network that captures business intent and translates it into policies that can be automated and applied consistently across the network. the goal is for the network to continuously monitor and adjust network performance to help assure desired business outcomes.
+IBN is a systematic approach to tie infrastructure management to business intent.
