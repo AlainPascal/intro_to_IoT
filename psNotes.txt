@@ -187,3 +187,10 @@ AUTOMATION
 Artificial Intelligence, AI, is the intelligence demonstrated by machines. AI uses intelligent agents that can perceive their environment and make decisions that maximize the probability of obtaining a specific goal or objective. AI refers to systems that mimic cognitive functions normally associated with human minds such as learning and problem solving.
 
 Machine Learning, ML, is a subset of AI that uses statistical techniques to give computers the ability to learn from their environment. this enables computers to improve on a particular task without being specifically programmed for that task. example of such tasks in computer science include malicious code detection, network intruder detection, optical character recognition, computer speech recognition, and computer vision.
+
+Some of the more common uses of ML in IoT include:
+	- Speech Recognition (many different companies now offer digital assistants which allow you to use speech to communicate with a computer system; Apple, Microsoft, Google and Amazon all offer this service)
+	- Product Recommendation (systems build up a customer profile and recommend products or services based on previous patterns)
+	- Shape Recognition (programs exist that allow crude hand-drawn diagrams and notes to be converted to more formal diagrams and text; this allows shapes and lines of hand writing to be converted to more formal text which can then be searched and analyzed)
+	- Credit Card Fraud Detection (a profile is constructed about the purchasing patterns of a client; any deviation from these patterns triggers an alert and the system automatically takes action)
+	- Facial Recognition (security cameras are everywhere, from stores and streets to airports and transportation hubs; these cameras continually scan the crowds, normally watching for dangerous or illegal activities, but they can also be used to identify and track individuals; the system builds a pattern of specific facial features and then watches for a match to these facial patterns triggering some action)
