@@ -210,3 +210,18 @@ IBN is a systematic approach to tie infrastructure management to business intent
 	Cisco DNA automation and assurance are built on a software-defined networking, SDN, controller, rich contextual analytics, network virtualization, and the limitless scalability of the cloud.
 
 Personal Identifiable Information, PII, or Sensitive Personal Information, SPI, is any data relating to a living individual that can be used on its own or with other information to identify, contact, or locate a specific individual.
+
+Security Best Practices:
+	- Perform risk assessment (knowing the value of what is being protected will help in justifying security expenditures)
+	- Create a security policy (a policy that clearly outlines company rules, job duties, and expectations)
+	- Physical security measures (restrict access to network assets in networking closets and server locations; install appropriate fire suppression systems)
+	- Human resource security measures (employees should be properly researched with background checks)
+	- Perform and test backups (perform regular backup and test data recovery from backups)
+	- Maintain security patches and updates (regularly update server, client, and network device operating system and programs)
+	- Employ access controls (configure user roles and privilege levels as well as strong user authentication)
+	- Regularly test incident response (employ an incident response team and test emergency response scenarios)
+	- Implement a network monitoring, analytics and management tool (choose a security monitoring solution that integrates with other technologies)
+	- Implement network security devices (use next generation routes, firewalls, and other security appliances)
+	- Implement a comprehensive endpoint security solution (use enterprise level antimalware and antivirus software)
+	- Educate users and employees (in secure procedures)
+	- Encrypt data (encrypt all sensitive company data including email)
