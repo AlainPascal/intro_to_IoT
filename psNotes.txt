@@ -259,3 +259,9 @@ Steps to Help Protect Company Wireless Network
 	- Use media access control, MAC, address filtering (if only employees use a particular wireless router, configure the router to check the MAC addresses of devices trying to connect to it, allowing connections only from the devices it recognizes)
 	- Disable wireless router's remote management feature (remote management feature often leaves routers susceptible to attacks; disable it if there is not the need to use the feature)
 	- Physically secure the wireless router (ensure that the router is in a secure location and is only accessible by authorized personnel)
+
+Protecting Devices
+	- Keep the firewall an (the firewall should be turned on and updated to prevent hackers from accessing personal or company data)
+	- Use antivirus and antispyware (only download software from trusted websites to avoid getting viruses and spyware; antivirus software is designed to scan computer and incoming email for viruses and delete them; sometimes antivirus software also includes antispyware; keep the software up to date to protect computer from the newest malicious software)
+	- Manage the operating system and browser (to protect the computer and data, set the security settings on computer and browser at medium or higher; update computer's operating system including web browsers and regularly download and install the latest software patches and security updates from the vendors)
+	- Protect all devices (all computing devices should be password protected to prevent unauthorized access; the stored information should be encrypted, especially for sensitive confidential data)
