@@ -276,4 +276,15 @@ Virtual Private Network, VPN
 	is a secure network using an encrypted internet connection that acts as a secure tunnel for data
 	VPN service should be used when connecting to a wifi network to enable users to hide their identity when using the internet
 	Many business require VPN access into their internal networks if employees are working remotely or are mobile. the employee will be provided with the VPN client, as well as user ID and password information. there are many smartphone VPN service applications that can be downloaded from free or for a monthly fee, such apps include ExpessVPN, NordVPN, and TunnelBear
+
+	Setting up a VPN on an android device:
+		Step 1 - unlock phone
+		Step 2 - open the Settings app
+		Step 3 - under the Wireless & networks section, select More
+		Step 4 - select VPN
+		Step 5 - at the top right corner find a plus sign, +, tap it
+		Step 6 - the network administrator will provide with all VPN information; simply select desired protocal and enter all the information
+		Step 7 - tap Save
+		Step 8 - connect by going back to the VPN settings and selecting VPN of choice; enter username and password
+		Step 9 - also hit the 3-dot menu button to set VPN to always be on
 	
