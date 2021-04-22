@@ -249,7 +249,7 @@ Factors that impact network security in the IoT
 	- Lack of upgradeability (the devices are often designed to be in service many years longer than is typical for conventional high tech equipment; some IoT devices are intentionally designed without the ability to be upgraded, or they might be deployed in situations that make it difficult or impossible to reconfigure or upgrade; new vulnerabilities are uncovered all the time; if a device is non upgradeable, then the vulnerability will exist for the rest of its lifetime; if a device is upgradeable, the typical consumer may not have a technology background, the upgrade process should perform automatically or be easy enough to be performed by a layperson)
 
 Steps to Help Protect Company Wireless Network
-	- Change the default administrator password (strong passwords should contain more than 8 digits and consists of letters, numbers, and special characters)
+	- Change the default administrator password (strong passwords should contain more than 8 characters and consists of letters, numbers, and special characters)
 	- Change the network service set identifier, SSID (a wireless network's name is called a service set identifier; wireless routes are usually shipped with default SSID making the network vulnerable to attack)
 	- Do not advertise the SSID name (most wireless routers advertise the SSID name; employees would have knowledge of the SSID name through the company)
 	- Create guest wireless network (for companies that require guest access, it is important to segregate the guest network from the employee network)
