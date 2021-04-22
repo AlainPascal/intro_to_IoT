@@ -271,3 +271,9 @@ Safety rules to follow when using a public or unsecured wifi hotspot:
 	- Verify whether computer is configured with file and media sharing, and that it requires user authentication with encryption
 	- Use encrypted virtual private network, VPN, tunnels and services. the VPN service provides secure access to the internet with an encrypted connection between computer and the VPN service provider's VPN server. with encrypted VPN tunnel, even if a data transmission is intercepted, it is not decipherable
 	- Keep bleutooth turned off when not being used
+
+Virtual Private Network, VPN
+	is a secure network using an encrypted internet connection that acts as a secure tunnel for data
+	VPN service should be used when connecting to a wifi network to enable users to hide their identity when using the internet
+	Many business require VPN access into their internal networks if employees are working remotely or are mobile. the employee will be provided with the VPN client, as well as user ID and password information. there are many smartphone VPN service applications that can be downloaded from free or for a monthly fee, such apps include ExpessVPN, NordVPN, and TunnelBear
+	
