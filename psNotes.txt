@@ -250,10 +250,10 @@ Factors that impact network security in the IoT
 
 Steps to Help Protect Company Wireless Network
 	- Change the default administrator password (strong passwords should contain more than 8 characters and consists of letters, numbers, and special characters)
-	- Change the network service set identifier, SSID (a wireless network's name is called a service set identifier; wireless routes are usually shipped with default SSID making the network vulnerable to attack)
+	- Change the network service set identifier, SSID (a wireless network's name is called a service set identifier; wireless routers are usually shipped with default SSID making the network vulnerable to attack)
 	- Do not advertise the SSID name (most wireless routers advertise the SSID name; employees would have knowledge of the SSID name through the company)
 	- Create guest wireless network (for companies that require guest access, it is important to segregate the guest network from the employee network)
-	- Enable the built in firewall (more wireless routes have built in firewalls, but sometimes they ship with the firewall turned off; make sure that the router's firewall is turned on)
+	- Enable the built in firewall (more wireless routers have built in firewalls, but sometimes they ship with the firewall turned off; make sure that the router's firewall is turned on)
 	- Configure the wireless router to use WPA2-AES encryption (every router offer encryption that scrambles data and makes it unreadable to everyone except by the internet recipient; wifi protected access 2, WPA2, is best because it employs the hardest to crack encryption algorithm)
 	- Keep the wireless router's firmware updated (when wireless router's firmware is kept updated, known bugs and vulnerabilities are fixed, making the router more secure)
 	- Use media access control, MAC, address filtering (if only employees use a particular wireless router, configure the router to check the MAC addresses of devices trying to connect to it, allowing connections only from the devices it recognizes)
