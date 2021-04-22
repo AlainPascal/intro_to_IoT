@@ -225,3 +225,16 @@ Security Best Practices:
 	- Implement a comprehensive endpoint security solution (use enterprise level antimalware and antivirus software)
 	- Educate users and employees (in secure procedures)
 	- Encrypt data (encrypt all sensitive company data including email)
+
+Data Center Physical Security:
+	- Biometrics access and exit sensors (provides two forms of authentication)
+	- Security traps (inside system to lock in an intruder, also called mantrap)
+	- Security breach alarms (alarms generated in the facility control center inform data center personnel of unauthorized physical access to the facility)
+	- Electronic motion detectors (provide inside security detection)
+	- Continuous video surveillance (provides real time security monitoring)
+	- Fences and gates (provide perimeter security to keep intruders out)
+	- On premise security officers (monitor and enforce security policies)
+	- Seismically braced server racks (to protect people and equipment in case there is an earthquake)
+	- UPS backup generators (to protect people and equipment during a power failure)
+	- Redundant HVAC controlled environment (to protect people and equipment in case the primary HVAC system goes down)
+	- Gas based fire suppression systems (to protect people and equipment in case there is a fire)
