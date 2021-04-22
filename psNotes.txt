@@ -287,4 +287,17 @@ Virtual Private Network, VPN
 		Step 7 - tap Save
 		Step 8 - connect by going back to the VPN settings and selecting VPN of choice; enter username and password
 		Step 9 - also hit the 3-dot menu button to set VPN to always be on
-	
+
+	Setting up a VPN on iphone or ipad:
+		Step 1 - launch Settings from Home screen
+		Step 2 - tap General
+		Step 3 - tap VPN
+		Step 4 - tap Add VPN Configuration; if one is already configured, select VPN client to use and toggle the Status switch on
+		Step 5 - tap Type
+		Step 6 - select VPN type from IKEv2, IPsec, or L2TP
+		Step 7 - tap Add Configuration in the upper left conner to go back to the previous screen
+		Step 8 - enter the VPN settings information including description, server, and remote ID
+		Step 9 - enter authentication login including username, or certificate, and password
+		Step 10 - if using a proxy, enable it by tapping Manual or Auto, depending on preferences
+		Step 11 - tap Done
+		Step 12 - under VPN Configurations, toggle the Status switch on
