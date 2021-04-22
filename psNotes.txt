@@ -208,3 +208,5 @@ IBN is a systematic approach to tie infrastructure management to business intent
 
 	The Cisco Digital Network Architecture, Cisco DNA, is an example of an intent-based network. it is an open, extensible, software-driven architecture. it accelerates and simplifies enterprise network operations, while lowering costs and reducing risks.
 	Cisco DNA automation and assurance are built on a software-defined networking, SDN, controller, rich contextual analytics, network virtualization, and the limitless scalability of the cloud.
+
+Personal Identifiable Information, PII, or Sensitive Personal Information, SPI, is any data relating to a living individual that can be used on its own or with other information to identify, contact, or locate a specific individual.
