@@ -238,3 +238,7 @@ Data Center Physical Security:
 	- UPS backup generators (to protect people and equipment during a power failure)
 	- Redundant HVAC controlled environment (to protect people and equipment in case the primary HVAC system goes down)
 	- Gas based fire suppression systems (to protect people and equipment in case there is a fire)
+
+	Physical security within the data center can be divided into two areas:
+		- Outside perimeter security (this can include on premise security offices, fences, gates, continuous video surveillance, and security breach alarms)
+		- Inside perimeter security (this can include continuous video surveillance, electronic motion detectors, security traps, and biometric access and exit sensors)
