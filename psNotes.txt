@@ -318,7 +318,7 @@ The Evolving Job Market
 		- Enhancers (these jobs devise their own value added services, on top of the services provided by Engagers, which are unique to the IoT)
 
 Entrepreneurs needed
-	The IoT is also creating a demand for IT specialist with the knowledge and skill sets to develop new IoT enabled products and process the data they collect
+	The IoT is also creating a demand for IT specialists with the knowledge and skill sets to develop new IoT enabled products and process the data they collect
 	An entrepreneurial workforce is needed that specializes in both information science and software or computer engineering
 
 Lifelong Learning
