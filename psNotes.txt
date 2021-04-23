@@ -302,7 +302,7 @@ Virtual Private Network, VPN
 		Step 11 - tap Done
 		Step 12 - under VPN Configurations, toggle the Status switch on
 
-Challenges in the Digitized Worlds
+Challenges in the Digitized World
 	The IoT provides many benefits but at the same time it presents many challenges.
 	Since the IoT is a transformational technology, we are now faced with an ever expanding collection of new technology that we must master.
 	The IoT is changing every aspects of our lives.
