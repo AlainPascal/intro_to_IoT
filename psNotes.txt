@@ -320,3 +320,7 @@ The Evolving Job Market
 Entrepreneurs needed
 	The IoT is also creating a demand for IT specialist with the knowledge and skill sets to develop new IoT enabled products and process the data they collect
 	An entrepreneurial workforce is needed that specializes in both information science and software or computer engineering
+
+Lifelong Learning
+	With the ever changing landscape of the digitized world, we must stay current in order to realize the full potential of what the IoT has to offer.
+	The job market will continue to offer more opportunities as new technologies evolve. the skill sets required for these jobs will evolve at the same time, thus creating the need for lifelong learning
