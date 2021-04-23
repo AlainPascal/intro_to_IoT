@@ -308,3 +308,11 @@ Challenges in the Digitized Worlds
 	The IoT is changing every aspects of our lives.
 	Every transformational technology in recent history presented major changes to an established society and was met with initial fear and apprehension. after the initial fear of the unknown was overcome and the technology was embraced, the inherent benefits became obvious.
 	Each perceived challenge opens up many new opportunities.
+
+The Evolving Job Market
+	In IT, job opportunities reflect skills spanning multiple disciplines that include computer science, computer engineering, and software engineering in the areas of: artificial intelligence, application development, IoT program developer, IoT security specialist, collaboration, enterprise networks, data center and virtualization
+	The IoT has created an abundance of jobs within its sphere across various spectrum of the design, development and enabling of the IoT.
+	There are broad categories that summarize the job opportunities that exist in the evolving digitized world:
+		- Enablers (these jobs develop and implement the underlying technology)
+		- Engagers (these jobs design, create, integrate, and deliver IoT services to customers)
+		- Enhancers (these jobs devise their own value added services, on top of the services provided by Engagers, which are unique to the IoT)
