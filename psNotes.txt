@@ -95,80 +95,82 @@ Chapter Two: EVERYTHING BECOMES PROGRAMMABLE
 			- Code Academy (relies on interactivity to help people learn how to write computer programs) https://www.codeacademy.com
 
 
-Characteristics that indicate an organization may be dealing with Big Data:
-	- They have a large number of data that increasingly requires more storage space (volume).
-	- They have an amount of data that is growing exponentially fast (velocity).
-	- They have data that is generated in different formats (variety).
+Chapter Three: EVERYTHING GENERATES DATA
 
-Major data storage problems:
-	- Management (data can be generated and collected from multiple different sources so a management system must be used to organize and collate all the sources. there are few data sharing standards and thousands of data management tools available)
-	- Security (data must be kept secure and only accessible by authorized users)
-	- Redundancy (safeguards should be in place to maintain the integrity of the stored data; processes for backups, redundancy, and disaster recovery are required)
-	- Analytics (big data contains both structured and unstructured data; unstructured data such as emails or photos are difficult to analyze and consume a lot of storage space; structured data such as a spreadsheet is easier to analyze and store; data storage systems must be able to manage both types)
-	- Access (big data must be accessible from anywhere at anytime)
+	Characteristics that indicate an organization may be dealing with Big Data:
+		- They have a large number of data that increasingly requires more storage space (volume).
+		- They have an amount of data that is growing exponentially fast (velocity).
+		- They have data that is generated in different formats (variety).
 
-Fog Computing
-	is an architecture that utilizes end-user clients or 'edge' devices to do a substantial amount of the preprocessing and storage required by an organization.
-	was designed to keep the data closer to the source for preprocessing.
-	After the data has been preprocessed, it is often shipped off for longer term storage, backup, or deeper analysis within the cloud.
+	Major data storage problems:
+		- Management (data can be generated and collected from multiple different sources so a management system must be used to organize and collate all the sources. there are few data sharing standards and thousands of data management tools available)
+		- Security (data must be kept secure and only accessible by authorized users)
+		- Redundancy (safeguards should be in place to maintain the integrity of the stored data; processes for backups, redundancy, and disaster recovery are required)
+		- Analytics (big data contains both structured and unstructured data; unstructured data such as emails or photos are difficult to analyze and consume a lot of storage space; structured data such as a spreadsheet is easier to analyze and store; data storage systems must be able to manage both types)
+		- Access (big data must be accessible from anywhere at anytime)
 
-The Cloud and Cloud Computing
-	The cloud is a collection of data centers or groups of connected servers. Access to software, storage, and services available on the servers is obtained through the Internet via a browser interface.
+	Fog Computing
+		is an architecture that utilizes end-user clients or 'edge' devices to do a substantial amount of the preprocessing and storage required by an organization.
+		was designed to keep the data closer to the source for preprocessing.
+		After the data has been preprocessed, it is often shipped off for longer term storage, backup, or deeper analysis within the cloud.
 
-	From an individual's perspective, using cloud services allows:
-		- to store all of data, such as pictures, music, movies, and emails, freeing up local hard drive space.
-		- to access many applications instead of downloading them onto local device.
-		- to access data and applications anywhere, anytime, and on any device.
+	The Cloud and Cloud Computing
+		The cloud is a collection of data centers or groups of connected servers. Access to software, storage, and services available on the servers is obtained through the Internet via a browser interface.
 
-	One of the disadvantages of using the cloud is that data could fall into the wrong hands. The data is at the mercy of the security robustness of the chosen cloud provider.
+		From an individual's perspective, using cloud services allows:
+			- to store all of data, such as pictures, music, movies, and emails, freeing up local hard drive space.
+			- to access many applications instead of downloading them onto local device.
+			- to access data and applications anywhere, anytime, and on any device.
 
-	From the perspective of an enterprise, cloud services and computing support a variety of data management issues:
-		- it enables access to organizational data anywhere and at any time.
-		- it streamlines the IT operations of an organization by subscribing only the needed services.
-		- it eliminates or reduces the need for onsite IT equipment, maintenance, and management.
-		- it reduces the cost of equipment, energy, physical plant requirements, and personnel training needs.
-		- it enables rapid responses to increasing data volume requirements.
+		One of the disadvantages of using the cloud is that data could fall into the wrong hands. The data is at the mercy of the security robustness of the chosen cloud provider.
 
-Distributed Data Processing takes the large volume of data and breaks it into smaller pieces. These smaller data volumes are distributed in many locations to be processed by many computers with smaller processors.
+		From the perspective of an enterprise, cloud services and computing support a variety of data management issues:
+			- it enables access to organizational data anywhere and at any time.
+			- it streamlines the IT operations of an organization by subscribing only the needed services.
+			- it eliminates or reduces the need for onsite IT equipment, maintenance, and management.
+			- it reduces the cost of equipment, energy, physical plant requirements, and personnel training needs.
+			- it enables rapid responses to increasing data volume requirements.
 
-The Hadoop Distributed File System, HDFS, is a distributed, fault tolerant file system, and MapReduce, which is a distributed way to process data.
-	Hadoop is open-source software enabling the distributed processing  of large data sets that can be terabytes in size and that are stored in clusters of computers.
+	Distributed Data Processing takes the large volume of data and breaks it into smaller pieces. These smaller data volumes are distributed in many locations to be processed by many computers with smaller processors.
 
-	Hadoop has two main features that have made it the industry standard for handling Big Data:
-		- Scalability (larger cluster size improve performance and provide higher data processing capabilities; with Hadoop, cluster size can easily scale from a five node cluster to a one thousand node cluster without excessively increasing the administrative burden)
-		- Fault Tolerance (Hadoop automatically replicates data across clusters to ensure data will not be lost; if a disk, node, or a whole rack fails, the data is safe)
+	The Hadoop Distributed File System, HDFS, is a distributed, fault tolerant file system, and MapReduce, which is a distributed way to process data.
+		Hadoop is open-source software enabling the distributed processing  of large data sets that can be terabytes in size and that are stored in clusters of computers.
 
-Data analytics allows business to better understand the impact of their products and services, adjust their methods and goals, and provide their customers with better products faster. The ability to gain new insights from their data brings value to the business.
-Value comes from two primary types of process data: transactional and analytical.
-Transactional information is captured and processed as events happen. It is used to analyze daily sales reports and production schedules to determine how much inventory to carry.
-Analytical information supports managerial analysis tasks like determining whether the organization should build a new manufacturing plant or hire additional sales personnel.
+		Hadoop has two main features that have made it the industry standard for handling Big Data:
+			- Scalability (larger cluster size improve performance and provide higher data processing capabilities; with Hadoop, cluster size can easily scale from a five node cluster to a one thousand node cluster without excessively increasing the administrative burden)
+			- Fault Tolerance (Hadoop automatically replicates data across clusters to ensure data will not be lost; if a disk, node, or a whole rack fails, the data is safe)
 
-The source of data in the large datasets is varied. Apart from sensor data, other data originates from anything that has been scanned, entered, and released to the Internet from sources such as:
-	- Social media sites
-	- HTTP, Web pages, and search engines on the Internet
-	- Historical data from public and private archives
-	- Metadata that is attached to emails, transmitted documents, and pictures
-	- Medical forms, insurance forms, and tax forms
-	- Genomics research using DNA
+	Data analytics allows business to better understand the impact of their products and services, adjust their methods and goals, and provide their customers with better products faster. The ability to gain new insights from their data brings value to the business.
+	Value comes from two primary types of process data: transactional and analytical.
+	Transactional information is captured and processed as events happen. It is used to analyze daily sales reports and production schedules to determine how much inventory to carry.
+	Analytical information supports managerial analysis tasks like determining whether the organization should build a new manufacturing plant or hire additional sales personnel.
 
-Data mining is the process of turning raw data into meaningful information by discovering patterns and relationships in large data sets.
+	The source of data in the large datasets is varied. Apart from sensor data, other data originates from anything that has been scanned, entered, and released to the Internet from sources such as:
+		- Social media sites
+		- HTTP, Web pages, and search engines on the Internet
+		- Historical data from public and private archives
+		- Metadata that is attached to emails, transmitted documents, and pictures
+		- Medical forms, insurance forms, and tax forms
+		- Genomics research using DNA
 
-Data Visualization
-	To be of value, the mined data must be analyzed and presented to managers and decision makers. There are many different visualizations that can be used to present the value in the data.
-	Determining the best chart to use will vary based on:
-		- the number of variables to show
-		- the number of data points in each variable
-		- whether the data is representing a timeline
-		- items that require comparisons
-	Some of the most popular chart types are line, column, bar, pie, and scatter.
+	Data mining is the process of turning raw data into meaningful information by discovering patterns and relationships in large data sets.
 
-Chart Types
-	- Line charts are most commonly used as comparison chats. They are used when there is a continuous set of data, when the number of data points is high, and to show a trend in the data over time.
-	- Column charts are positioned vertically, probably the most common chart type used to display the value of a specific data point and compare that value across similar categories.
-	- Pie charts are used to show the comparison of a static number; segments represent a percentage of that number; the number of categories should be kept to a minimum (not more than ten, else the slices lose meaning and impact); the total number of segments must equal 100%.
-	- Scanner plots are very popular for correlation visualizations, or to show the distribution of a large number of data points.
-	- Bar charts are similar to column charts except they are positioned horizontally or vertically; longer bars indicate larger numbers; they are best used when the names for each data point is long.
+	Data Visualization
+		To be of value, the mined data must be analyzed and presented to managers and decision makers. There are many different visualizations that can be used to present the value in the data.
+		Determining the best chart to use will vary based on:
+			- the number of variables to show
+			- the number of data points in each variable
+			- whether the data is representing a timeline
+			- items that require comparisons
+		Some of the most popular chart types are line, column, bar, pie, and scatter.
 
-Analyzing Big Data for Effective Use in Business
-	Data analysis is the process of inspecting, cleaning, transforming, and modeling data to uncover useful information. Before beginning any analysis, it is critical to know what problem the business is trying to solve or what information the business is looking for. Having a strategy helps a business determine the type of analysis required and the best tool to do the analysis; also helps to determine the most effective way to present the results for management.
-	There are many Big Data Analytics tools such as Knime, OpenRefine, Orange, and RapidMiner.
+	Chart Types
+		- Line charts are most commonly used as comparison chats. They are used when there is a continuous set of data, when the number of data points is high, and to show a trend in the data over time.
+		- Column charts are positioned vertically, probably the most common chart type used to display the value of a specific data point and compare that value across similar categories.
+		- Pie charts are used to show the comparison of a static number; segments represent a percentage of that number; the number of categories should be kept to a minimum (not more than ten, else the slices lose meaning and impact); the total number of segments must equal 100%.
+		- Scanner plots are very popular for correlation visualizations, or to show the distribution of a large number of data points.
+		- Bar charts are similar to column charts except they are positioned horizontally or vertically; longer bars indicate larger numbers; they are best used when the names for each data point is long.
+
+	Analyzing Big Data for Effective Use in Business
+		Data analysis is the process of inspecting, cleaning, transforming, and modeling data to uncover useful information. Before beginning any analysis, it is critical to know what problem the business is trying to solve or what information the business is looking for. Having a strategy helps a business determine the type of analysis required and the best tool to do the analysis; also helps to determine the most effective way to present the results for management.
+		There are many Big Data Analytics tools such as Knime, OpenRefine, Orange, and RapidMiner.
