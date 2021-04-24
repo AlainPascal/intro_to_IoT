@@ -53,42 +53,43 @@ Chapter One: EVERYTHING IS CONNECTED
 	The future of networking will revolve around artificial intelligence (AI) and intent-based networking (IBN). If programmed appropriately, smart devices are able to evaluate data that is provided to them and modify processes or settings. If they are provided with sufficient data, they can 'learn' and modify their own code based on the new parameters.
 
 
-FLOWCHARTS: are diagrams that are used to represent processes or workflows. They illustrate how a process should work. They should show input states, any decisions made, and the results of those decisions. A flowchart should be easy to understand without having to be an expert in the chosen field. A flowchart is a common way to represent an algorithm (a set of self-contained step-by-step instructions).
+Chapter Two: EVERYTHING BECOMES PROGRAMMABLE
 
-There are two common types of computer software:
-	- Application software programs are created to accomplish a certain task or collection of tasks.
-	- System software works between the computer hardware and the application program. It controls the computer hardware and allows the application programs to function.
-Both system software and application software are created using a computer programming language which is a formal language designed to create programs that communicate instructions to computer hardware.
-A compiled programming language turns the computer program into machine language before execution. An interpreted programming language interprets instructions directly without first compiling them into machine language.
-C++ is an example of a compiled programming language while Python is an example of an interpreted programming language.
+	FLOWCHARTS: are diagrams that are used to represent processes or workflows. They illustrate how a process should work. They should show input states, any decisions made, and the results of those decisions. A flowchart should be easy to understand without having to be an expert in the chosen field. A flowchart is a common way to represent an algorithm (a set of self-contained step-by-step instructions).
 
-Programming variables can be classified into two categories:
-	- Local Variables: these are variables that are within the scope of a program / function / procedure.
-	- Global Variables: these are variables that are in the scope for the time the program's execution. They can be retrieved by any part of the program.
+	There are two common types of computer software:
+		- Application software programs are created to accomplish a certain task or collection of tasks.
+		- System software works between the computer hardware and the application program. It controls the computer hardware and allows the application programs to function.
+	Both system software and application software are created using a computer programming language which is a formal language designed to create programs that communicate instructions to computer hardware.
+	A compiled programming language turns the computer program into machine language before execution. An interpreted programming language interprets instructions directly without first compiling them into machine language.
+	C++ is an example of a compiled programming language while Python is an example of an interpreted programming language.
 
-Basic program structures are:
-	- IF..THEN : allows the computer to make a decision based on the result of an expression. When an IF..THEN structure is encountered, it evaluates the provided expression. If the expression is false, the computer moves on to the next structure, ignoring the contents of the IF..THEN block. If the expression is true, the computer executes the associated action before moving on to the next instruction in the program.
-	- FOR Loops : used to execute a specific set of instructions a specific number of times, based on an expression. A variable acts as a counter inside a range of values identified by a minimum and a maximum. Every time the loop is executed, the counter variable is incremented. When the counter is equal to the defined maximum value, the loop is abandoned and the execution moves on to the next instruction.
-	- WHILE Loops : used to execute a specific set of instruction while an expression is true. Often the instructions inside the loop will eventually make the expression evaluate as false.
+	Programming variables can be classified into two categories:
+		- Local Variables: these are variables that are within the scope of a program / function / procedure.
+		- Global Variables: these are variables that are in the scope for the time the program's execution. They can be retrieved by any part of the program.
 
-PROTOTYPING
-	is the process of creating a rudimentary working model of a product or system. Used for performance evaluation and further improvement of product. May be relatively expensive to produce. It is an actual, working version of the product.
-	In the IoT, it is often used as a technology demonstrator.
+	Basic program structures are:
+		- IF..THEN : allows the computer to make a decision based on the result of an expression. When an IF..THEN structure is encountered, it evaluates the provided expression. If the expression is false, the computer moves on to the next structure, ignoring the contents of the IF..THEN block. If the expression is true, the computer executes the associated action before moving on to the next instruction in the program.
+		- FOR Loops : used to execute a specific set of instructions a specific number of times, based on an expression. A variable acts as a counter inside a range of values identified by a minimum and a maximum. Every time the loop is executed, the counter variable is incremented. When the counter is equal to the defined maximum value, the loop is abandoned and the execution moves on to the next instruction.
+		- WHILE Loops : used to execute a specific set of instruction while an expression is true. Often the instructions inside the loop will eventually make the expression evaluate as false.
 
-	Prototyping Physical Materials: 
-		- Maker Media (global platform for connecting makers with each other to exchange projects and ideas, also to find and buy products for their projects) https://www.makezine.com
-		- Wood and Metal (common prototyping materials, but may be too difficult for beginners to user), Plastic, Clay, Paper and Wires.
-		- LEGO Mindstorms (has large community of contributors, you can create LEGO robots and control them using an application) https://www.mindstorms.lego.com
-		- Meccano, or Erector Set (a model contribution system that consists of reusable metal strips, plates, angle girders, wheels, axles, and gears, with nuts and bolts to connect pieces. Helps build working prototypes and mechanical devices) https://www.erector.us
-		- 3D Printing (process of making a solid object based on 3D model computer file) https://www.makerbot.com
+	PROTOTYPING
+		is the process of creating a rudimentary working model of a product or system. Used for performance evaluation and further improvement of product. May be relatively expensive to produce. It is an actual, working version of the product.
+		In the IoT, it is often used as a technology demonstrator.
 
-	Prototyping Electronic Toolkits:
-		- Arduino (an open-source physical computing platform based on a simple microcontroller board, and a development environment for writing software for the board) https://www.arduino.cc
-		- Raspberry Pi (a low cost, credit-card-sized computer that plugs into a computer monitor or TV, capable of doing everything a computer can do, from browsing the Internet and playing high definition video, to making spreadsheets, word processing, and playing games) https://www.raspberrypi.org
-		- Beaglebone (very similar to Raspberry Pi in size, power requirements, and application, with more processing power, making it a better choice for application with higher processing requirements) https://www.beaglebone.org
+		Prototyping Physical Materials: 
+			- Maker Media (global platform for connecting makers with each other to exchange projects and ideas, also to find and buy products for their projects) https://www.makezine.com
+			- Wood and Metal (common prototyping materials, but may be too difficult for beginners to user), Plastic, Clay, Paper and Wires.
+			- LEGO Mindstorms (has large community of contributors, you can create LEGO robots and control them using an application) https://www.mindstorms.lego.com
+			- Meccano, or Erector Set (a model contribution system that consists of reusable metal strips, plates, angle girders, wheels, axles, and gears, with nuts and bolts to connect pieces. Helps build working prototypes and mechanical devices) https://www.erector.us
+			- 3D Printing (process of making a solid object based on 3D model computer file) https://www.makerbot.com
 
-	Prototyping Programming Resources:
-		- MIT OpenCourceWare, OCW (a web based publication of almost all MIT course content, OCW is a great place to get familiar with computer programming for free) https://www.ocw.mit.edu/courses/intro-programming
-		- Khan Academy (non-profit educational website to provide a free world class education for anyone, anywhere) https://www.khanacademy.org/computing/cs
-		- Code Academy (relies on interactivity to help people learn how to write computer programs) https://www.codeacademy.com
+		Prototyping Electronic Toolkits:
+			- Arduino (an open-source physical computing platform based on a simple microcontroller board, and a development environment for writing software for the board) https://www.arduino.cc
+			- Raspberry Pi (a low cost, credit-card-sized computer that plugs into a computer monitor or TV, capable of doing everything a computer can do, from browsing the Internet and playing high definition video, to making spreadsheets, word processing, and playing games) https://www.raspberrypi.org
+			- Beaglebone (very similar to Raspberry Pi in size, power requirements, and application, with more processing power, making it a better choice for application with higher processing requirements) https://www.beaglebone.org
 
+		Prototyping Programming Resources:
+			- MIT OpenCourceWare, OCW (a web based publication of almost all MIT course content, OCW is a great place to get familiar with computer programming for free) https://www.ocw.mit.edu/courses/intro-programming
+			- Khan Academy (non-profit educational website to provide a free world class education for anyone, anywhere) https://www.khanacademy.org/computing/cs
+			- Code Academy (relies on interactivity to help people learn how to write computer programs) https://www.codeacademy.com
