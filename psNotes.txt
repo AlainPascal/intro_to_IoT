@@ -208,7 +208,7 @@ Chapter Four: EVERYTHING CAN BE AUTOMATED
 
 	The Intent-Based Networking, IBN, transforms a hardware-centric, manual network into a controller-led network that captures business intent and translates it into policies that can be automated and applied consistently across the network. the goal is for the network to continuously monitor and adjust network performance to help assure desired business outcomes.
 	IBN is a systematic approach to tie infrastructure management to business intent.
-		
+
 		Intent-based networking harnesses the power of automation, AI, and ML to control the function of a network to accomplish a specific purpose, or intent.
 		The intent-based network uses AI and ML to ensure that any services that are deployed meet the required service level. if they do not meet the service level, the intent-based network can make alerts and provide suggestions for improvement.
 
@@ -315,3 +315,29 @@ Chapter five: EVERYTHING NEEDS TO BE SECURED
 			Step 10 - if using a proxy, enable it by tapping Manual or Auto, depending on preferences
 			Step 11 - tap Done
 			Step 12 - under VPN Configurations, toggle the Status switch on
+
+
+Chapter Six: EDUCATIONAL AND BUSINESS OPPORTUNITIES
+
+	Challenges in the Digitized World
+		The IoT provides many benefits but at the same time it presents many challenges.
+		Since the IoT is a transformational technology, we are now faced with an ever expanding collection of new technologies that we must master.
+		The IoT is changing every aspects of our lives.
+		Every transformational technology in recent history presented major changes to an established society and was met with initial fear and apprehension. after the initial fear of the unknown was overcome and the technology was embraced, the inherent benefits became obvious.
+		Each perceived challenge opens up many new opportunities.
+
+	The Evolving Job Market
+		In IT, job opportunities reflect skills spanning multiple disciplines that include computer science, computer engineering, and software engineering in the areas of: artificial intelligence, application development, IoT program developer, IoT security specialist, collaboration, enterprise networks, data center and virtualization
+		The IoT has created an abundance of jobs within its sphere across various spectrums of the design, development and enabling of the IoT.
+		There are broad categories that summarize the job opportunities that exist in the evolving digitized world:
+			- Enablers (these jobs develop and implement the underlying technology)
+			- Engagers (these jobs design, create, integrate, and deliver IoT services to customers)
+			- Enhancers (these jobs devise their own value added services, on top of the services provided by Engagers, which are unique to the IoT)
+
+	Entrepreneurs needed
+		The IoT is also creating a demand for IT specialists with the knowledge and skill sets to develop new IoT enabled products and process the data they collect
+		An entrepreneurial workforce is needed that specializes in both information science and software or computer engineering
+
+	Lifelong Learning
+		With the ever changing landscape of the digitized world, we must stay current in order to realize the full potential of what the IoT has to offer.
+		The job market will continue to offer more opportunities as new technologies evolve. the skill sets required for these jobs will evolve at the same time, thus creating the need for lifelong learning
