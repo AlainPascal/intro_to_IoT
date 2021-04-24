@@ -6,45 +6,48 @@ Objectives:
 	- Explain the need for enhanced security in digitized world.
 	- Discover opportunities provided by digital transformation.
 
-In our world today, there are more smart devices than there are people. A growing number of people are connected to the Internet, in one way or another, 24 hours a day.
-The world is quickly being covered with networks that allow digital devices to interconnect and transmit. As society embraces these digital devices, as digital networks continue to grow around the world, and as the economic benefits of digitization continue to grow, we are seeing a digital transformation (which is the application of digital technology to provide the stage for business and industry to innovate).
 
-Digital technology has enabled businesses to innovate their approach to interacting with society.
-Many companies now provide some or all of their services on-line.
-Sensors are everywhere generating massive amounts of data; all these sensors and measuring devices collect and transmit their data which can be stored and analyzed at a later date or it can be analyzed immediately to be used to modify computers, mobile devices, or processes of any sort.
-The stored and analyzed data is used in businesses to determine buying patterns, forecast new trends, and streamline production; in governments to monitor the environment, forecast population trends, predict crime rates, and plan for social services; in cities to control traffic, monitor parking, provide police or fire support quicker, and control waste management.
+Chapter One: EVERYTHING IS CONNECTED
 
-Networks form the foundation of the digitized world, they come in all sizes, they can range from simple networks consisting of two computers to networks connecting millions of devices.
-Simple networks in homes enable connectivity to the Internet; they also enable sharing of resources, such as printers, documents, pictures, and music, between a few local computers.
-In businesses and large organizations, networks can provide products and services to customers through their connection to the Internet.
-Networks can also be used on an even broader scale to provide consolidation, storage, and access to information on network servers.
-The Internet (the network of networks) is the largest network in existence and effectively provides the 'electronic skin' that surrounds the planet. Internet is a collection of interconnected private and public networks. Businesses, small office networks, and home networks connect to the Internet.
+	In our world today, there are more smart devices than there are people. A growing number of people are connected to the Internet, in one way or another, 24 hours a day.
+	The world is quickly being covered with networks that allow digital devices to interconnect and transmit. As society embraces these digital devices, as digital networks continue to grow around the world, and as the economic benefits of digitization continue to grow, we are seeing a digital transformation (which is the application of digital technology to provide the stage for business and industry to innovate).
 
-NETWORK TYPES:
-	- Personal Area Network (PAN): small networks where connected wireless devices are within personal reach. Connecting your smartphone to your car using Bluetooth is an example of PAN.
-	- Local Area Network (LAN): typically a network in a small or local geographic area, such as a home, small business or department within a large corporation. LAN can connect two or more devices including computers, printers, and wireless devices. It provides access to larger wide area networks (WAN) and the Internet.
-	- Metropolitan Area Network (MAN): a network that interconnects users with computer resources in a geographic region of the size of a metropolitan area. Applied to the interconnection of LANs in a city into a single larger network which may then also offer efficient connection to a WAN.
-	- Wide Area Networks (WAN): a collection of LANs that provides inter-LAN and Internet connectivity for businesses and governments.
-	- Internet: a multi-layer global network system that connects hundreds of millions of computers. This large system is comprised of multiple local and global networks serving private, public, business, academic, and government purposes.
-	- Wireless Networks: computer networks that use electromagnetic waves instead of wires in order to carry signals over the various parts of the network. They can be described as PANs, LANs or WANs, depending on their scope.
-	- The Cloud: a collection of data centers or groups of connected servers that are used to store and analyze data, provide access to on-line applications and corporate use.
-	- The Edge: the physical edge of a corporate network.
-	- Fog Computing: with the rising of sensors used by the IoT, there is often a need to store the sensor data securely and closer to where the data can be analyzed, then the analyzed data can be used quickly and effectively to update or modify processes within the organization. This allows local data to be preprocessed at the edge of the network.
+	Digital technology has enabled businesses to innovate their approach to interacting with society.
+	Many companies now provide some or all of their services on-line.
+	Sensors are everywhere generating massive amounts of data; all these sensors and measuring devices collect and transmit their data which can be stored and analyzed at a later date or it can be analyzed immediately to be used to modify computers, mobile devices, or processes of any sort.
+	The stored and analyzed data is used in businesses to determine buying patterns, forecast new trends, and streamline production; in governments to monitor the environment, forecast population trends, predict crime rates, and plan for social services; in cities to control traffic, monitor parking, provide police or fire support quicker, and control waste management.
 
-The Internet of Things (IoT) is the connection of millions of smart devices and sensors connected to the Internet. These connected devices and sensors collect and share data for use and evaluation by many organizations.
+	Networks form the foundation of the digitized world, they come in all sizes, they can range from simple networks consisting of two computers to networks connecting millions of devices.
+	Simple networks in homes enable connectivity to the Internet; they also enable sharing of resources, such as printers, documents, pictures, and music, between a few local computers.
+	In businesses and large organizations, networks can provide products and services to customers through their connection to the Internet.
+	Networks can also be used on an even broader scale to provide consolidation, storage, and access to information on network servers.
+	The Internet (the network of networks) is the largest network in existence and effectively provides the 'electronic skin' that surrounds the planet. Internet is a collection of interconnected private and public networks. Businesses, small office networks, and home networks connect to the Internet.
 
-Many organizations are benefiting from the data collected, saved and analyzed from sensors:
-	- Businesses have more information about products that they sell and who is purchasing them.
-	- Retailers are able to do more marketing, reduce losses based on unsold products, and can provide loyalty bonuses for preferred or frequent customers, as well as manage types of in-store products.
-	- Manufacturers reduce downtime by predicting maintenance requirements and improving scheduling of field service employees.
-	- Governments monitor environment issues, target funding for social issues, and have informed control of power output.
-	- Cities have the ability to control traffic patterns based on time of day or major events, monitor and control garbage and recycling, monitor health and housing needs, and evaluate future transportation requirements.
-	- Individuals can reap improved fitness and health benefits, better home and family security, and reduce costs for energy and heating systems.
+	NETWORK TYPES:
+		- Personal Area Network (PAN): small networks where connected wireless devices are within personal reach. Connecting your smartphone to your car using Bluetooth is an example of PAN.
+		- Local Area Network (LAN): typically a network in a small or local geographic area, such as a home, small business or department within a large corporation. LAN can connect two or more devices including computers, printers, and wireless devices. It provides access to larger wide area networks (WAN) and the Internet.
+		- Metropolitan Area Network (MAN): a network that interconnects users with computer resources in a geographic region of the size of a metropolitan area. Applied to the interconnection of LANs in a city into a single larger network which may then also offer efficient connection to a WAN.
+		- Wide Area Networks (WAN): a collection of LANs that provides inter-LAN and Internet connectivity for businesses and governments.
+		- Internet: a multi-layer global network system that connects hundreds of millions of computers. This large system is comprised of multiple local and global networks serving private, public, business, academic, and government purposes.
+		- Wireless Networks: computer networks that use electromagnetic waves instead of wires in order to carry signals over the various parts of the network. They can be described as PANs, LANs or WANs, depending on their scope.
+		- The Cloud: a collection of data centers or groups of connected servers that are used to store and analyze data, provide access to on-line applications and corporate use.
+		- The Edge: the physical edge of a corporate network.
+		- Fog Computing: with the rising of sensors used by the IoT, there is often a need to store the sensor data securely and closer to where the data can be analyzed, then the analyzed data can be used quickly and effectively to update or modify processes within the organization. This allows local data to be preprocessed at the edge of the network.
 
-HOW IoT DEVICES ARE CONNECTED TO THE NETWORK
-	A sensor needs to be connected to a network (either wireless or wired Ethernet connection) so that the gathered data can be stored and shared.
-	Connected to a controller that is responsible for collecting data from sensors and providing network or Internet connectivity, as well as make immediate decisions, send data to a more powerful computer in the same LANs or through Internet connection for analysis.
-	Sensors often work together with actuators that take electrical input and transform the input into physical action.
-	Low-powered connection options must be used to optimize and extend the availability of the sensor.
+	The Internet of Things (IoT) is the connection of millions of smart devices and sensors connected to the Internet. These connected devices and sensors collect and share data for use and evaluation by many organizations.
 
-The future of networking will revolve around artificial intelligence (AI) and intent-based networking (IBN). If programmed appropriately, smart devices are able to evaluate data that is provided to them and modify processes or settings. If they are provided with sufficient data, they can 'learn' and modify their own code based on the new parameters.
+	Many organizations are benefiting from the data collected, saved and analyzed from sensors:
+		- Businesses have more information about products that they sell and who is purchasing them.
+		- Retailers are able to do more marketing, reduce losses based on unsold products, and can provide loyalty bonuses for preferred or frequent customers, as well as manage types of in-store products.
+		- Manufacturers reduce downtime by predicting maintenance requirements and improving scheduling of field service employees.
+		- Governments monitor environment issues, target funding for social issues, and have informed control of power output.
+		- Cities have the ability to control traffic patterns based on time of day or major events, monitor and control garbage and recycling, monitor health and housing needs, and evaluate future transportation requirements.
+		- Individuals can reap improved fitness and health benefits, better home and family security, and reduce costs for energy and heating systems.
+
+	HOW IoT DEVICES ARE CONNECTED TO THE NETWORK
+		A sensor needs to be connected to a network (either wireless or wired Ethernet connection) so that the gathered data can be stored and shared.
+		Connected to a controller that is responsible for collecting data from sensors and providing network or Internet connectivity, as well as make immediate decisions, send data to a more powerful computer in the same LANs or through Internet connection for analysis.
+		Sensors often work together with actuators that take electrical input and transform the input into physical action.
+		Low-powered connection options must be used to optimize and extend the availability of the sensor.
+
+	The future of networking will revolve around artificial intelligence (AI) and intent-based networking (IBN). If programmed appropriately, smart devices are able to evaluate data that is provided to them and modify processes or settings. If they are provided with sufficient data, they can 'learn' and modify their own code based on the new parameters.
